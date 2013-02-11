@@ -8,7 +8,7 @@ except ImportError:
     from setuptools import setup
 
 setup(name='django-ajax-selects',
-    version='1.2.5',
+    version='1.2.7',
     description='jQuery-powered auto-complete fields for editing ForeignKey, ManyToManyField and CharField',
     author='crucialfelix',
     author_email='crucialfelix@gmail.com',
